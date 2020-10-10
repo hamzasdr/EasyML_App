@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "982478992506",
+    "firebase_url": "https://easyml-11670.firebaseio.com",
+    "project_id": "easyml-11670",
+    "storage_bucket": "easyml-11670.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:982478992506:android:5685efd99b6104029ef7c3",
+        "android_client_info": {
+          "package_name": "easyml.com.prototyoe_project_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "982478992506-iiosk0l906d6tghs3i8htu2ug6af2drq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1fzrOqlRkg0Be4D25n0f4s_5IMqI5YeU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "982478992506-iiosk0l906d6tghs3i8htu2ug6af2drq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
